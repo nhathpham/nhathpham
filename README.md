@@ -1,10 +1,7 @@
-Hi 👋 My name is Nhat (Nat) Pham
+Hi 👋 My name is Nat
 ================================
 
-Data Scientist
---------------
-
-I am passionate about helping organizations make strategic decisions and meaningful impacts through data.
+I am a data scientist passionate about helping organizations make strategic decisions and meaningful impacts through data.
 
 * 🌍  I'm based in Boston
 * ✉️  You can contact me at [nhatp1119@gmail.com](mailto:nhatp1119@gmail.com)
