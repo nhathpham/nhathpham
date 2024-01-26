@@ -10,7 +10,7 @@ I am passionate about helping organizations make strategic decisions and meaning
 * ✉️  You can contact me at [nhatp1119@gmail.com](mailto:nhatp1119@gmail.com)
 * 🚀  I'm currently working on [A time series forecast for birdwatchers](http://public.tableau.com/app/profile/nhat.pham5285/viz/dashboard_0213_all/MainDashboard)
 * 🧠  I'm learning Recommendation Systems, Deep Learning, A/B Testing
-* 🤝  I'm open to collaborating on data projects for non-profits
+* 🤝  I'm looking for full-time data science roles, and volunteering opportunities for social goods
 
 ### Skills
 
